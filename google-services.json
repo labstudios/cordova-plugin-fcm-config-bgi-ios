@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1065361643981",
+    "firebase_url": "https://brahma-safety-app.firebaseio.com",
+    "project_id": "brahma-safety-app",
+    "storage_bucket": "brahma-safety-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065361643981:android:bcc27a24b0307cbc",
+        "android_client_info": {
+          "package_name": "com.brahmagroup.safetyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065361643981-21qacg9lptu27q1iik2kilbuhrkrrrtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_rpMdqSksaoVtqurzYi0HEp36UXmFmHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
